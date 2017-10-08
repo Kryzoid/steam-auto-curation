@@ -1,0 +1,17 @@
+{
+  "uri": "http://steamcommunity.com/groups/InventoryService/createrecommendation/",
+  "method": "POST",
+  "headers": {
+    "Cookie": ""
+  },
+  "formData": {
+    "sessionID": "",
+    "blurb": "Game has public Steam inventories.",
+    "link_url": "http://",
+    "recommendation_state": 2,
+    "received_compensation": 0,
+    "received_for_free": 0,
+    "create_only": 1
+  },
+  "json": true
+}
