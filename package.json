@@ -2,7 +2,8 @@
   "name": "curator",
   "version": "0.0.0",
   "scripts": {
-    "games": "node games.js"
+    "games": "node games.js",
+    "review": "node review.js"
   },
   "dependencies": {
     "bluebird": "^3.5.1",
